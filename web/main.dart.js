@@ -68420,29 +68420,29 @@ A.tQ.prototype={
 al(){var s=t.N,r=t.z
 return new A.Kz(A.a([A.au(["name","\uc0ac\uacfc","price",5000,"unitPrice","1000\uc6d0/kg","url","https://example.com/apple"],s,r),A.au(["name","\ubc14\ub098\ub098","price",3000,"unitPrice","1500\uc6d0/kg","url","https://example.com/banana"],s,r),A.au(["name","\uc624\ub80c\uc9c0","price",4000,"unitPrice","2000\uc6d0/kg","url","https://example.com/orange"],s,r)],t.gG),B.k)}}
 A.Kz.prototype={
-O(a){var s,r,q,p,o,n,m,l,k,j=null,i=2023,h=A.a6(a).ax,g=h.k2
-h=g==null?h.c:g
+O(a){var s,r,q,p,o,n,m,l,k,j=null,i="assets/icons/MainCat.png",h=2023,g=A.a6(a).ax,f=g.k2
+g=f==null?g.c:f
 this.a.toString
-g=A.wM("\ucd5c\uc800\uac00\ub0e5",j,j,j,j,j,j)
-s=A.ahI("assets/icons/MainCat.png")
-r=A.it(j,A.are(A.ahI("assets/icons/HotdealCat.png")),j,j,new A.dr(B.fK,j,j,B.wC,j,j,B.aA),200,j,j,700)
-q=A.mw(i,6,10,0,0,0,0,!1)
+f=A.wM("\ucd5c\uc800\uac00\ub0e5",j,j,j,j,j,j)
+s=A.ahI(i)
+r=A.it(j,A.are(A.ahI(i)),j,j,new A.dr(B.fK,j,j,B.wC,j,j,B.aA),200,j,j,700)
+q=A.mw(h,6,10,0,0,0,0,!1)
 if(!A.ev(q))A.O(A.ex(q))
 p=t.N
 o=t.z
 q=A.au(["date",new A.cn(q,!1),"price",150],p,o)
-n=A.mw(i,6,11,0,0,0,0,!1)
+n=A.mw(h,6,11,0,0,0,0,!1)
 if(!A.ev(n))A.O(A.ex(n))
 n=A.au(["date",new A.cn(n,!1),"price",160],p,o)
-m=A.mw(i,6,12,0,0,0,0,!1)
+m=A.mw(h,6,12,0,0,0,0,!1)
 if(!A.ev(m))A.O(A.ex(m))
 m=A.au(["date",new A.cn(m,!1),"price",140],p,o)
-l=A.mw(i,6,13,0,0,0,0,!1)
+l=A.mw(h,6,13,0,0,0,0,!1)
 if(!A.ev(l))A.O(A.ex(l))
 l=A.au(["date",new A.cn(l,!1),"price",170],p,o)
-k=A.mw(i,6,14,0,0,0,0,!1)
+k=A.mw(h,6,14,0,0,0,0,!1)
 if(!A.ev(k))A.O(A.ex(k))
-return new A.vZ(new A.rc(s,g,h,new A.Mu(j,j,1/0,56),j),A.jO(A.agD(A.a([B.Jx,r,B.Jw,A.wr(new A.FO(A.a([q,n,m,l,A.au(["date",new A.cn(k,!1),"price",180],p,o)],t.gG),j),400,800),B.Jy,A.wr(new A.wB(this.d,j),j,800)],t.F),B.eh,B.c3),j,j),j)}}
+return new A.vZ(new A.rc(s,f,g,new A.Mu(j,j,1/0,56),j),A.jO(A.agD(A.a([B.Jx,r,B.Jw,A.wr(new A.FO(A.a([q,n,m,l,A.au(["date",new A.cn(k,!1),"price",180],p,o)],t.gG),j),400,800),B.Jy,A.wr(new A.wB(this.d,j),j,800)],t.F),B.eh,B.c3),j,j),j)}}
 A.FO.prototype={
 O(a){var s,r,q,p,o,n,m,l,k=null,j=a.ab(t.yS),i=A.a3d(k,k,1,k,A.j9(k,(j==null?B.cA:j).w,"Price"),B.b3,B.n,k,1,B.T,B.a7)
 i.u8()
