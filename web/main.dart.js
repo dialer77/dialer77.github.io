@@ -68437,29 +68437,29 @@ A.tS.prototype={
 am(){var s=t.N,r=t.z
 return new A.Kz(A.a([A.au(["name","\uc0ac\uacfc","price",5000,"unitPrice","1000\uc6d0/kg","url","https://example.com/apple"],s,r),A.au(["name","\ubc14\ub098\ub098","price",3000,"unitPrice","1500\uc6d0/kg","url","https://example.com/banana"],s,r),A.au(["name","\uc624\ub80c\uc9c0","price",4000,"unitPrice","2000\uc6d0/kg","url","https://example.com/orange"],s,r)],t.gG),B.k)}}
 A.Kz.prototype={
-O(a){var s,r,q,p,o,n,m,l,k,j=null,i=2023,h=A.a6(a).ax,g=h.k2
-h=g==null?h.c:g
+O(a){var s,r,q,p,o,n,m,l,k,j=null,i="assets/icons/MainCat.png",h=2023,g=A.a6(a).ax,f=g.k2
+g=f==null?g.c:f
 this.a.toString
-g=A.wO("\ucd5c\uc800\uac00\ub0e5",j,j,j,j,j,j)
-s=A.ahL("assets/icons/MainCat.png",j)
-r=A.hs(j,A.ari(A.ahL("assets/icons/HotdealCat.png",new A.a76())),j,j,new A.dr(B.fL,j,j,B.wE,j,j,B.aA),200,j,j,700)
-q=A.mw(i,6,10,0,0,0,0,!1)
+f=A.wO("\ucd5c\uc800\uac00\ub0e5",j,j,j,j,j,j)
+s=A.ahL(i,j)
+r=A.hs(j,A.ari(A.ahL(i,new A.a76())),j,j,new A.dr(B.fL,j,j,B.wE,j,j,B.aA),200,j,j,700)
+q=A.mw(h,6,10,0,0,0,0,!1)
 if(!A.ev(q))A.O(A.ex(q))
 p=t.N
 o=t.z
 q=A.au(["date",new A.co(q,!1),"price",150],p,o)
-n=A.mw(i,6,11,0,0,0,0,!1)
+n=A.mw(h,6,11,0,0,0,0,!1)
 if(!A.ev(n))A.O(A.ex(n))
 n=A.au(["date",new A.co(n,!1),"price",160],p,o)
-m=A.mw(i,6,12,0,0,0,0,!1)
+m=A.mw(h,6,12,0,0,0,0,!1)
 if(!A.ev(m))A.O(A.ex(m))
 m=A.au(["date",new A.co(m,!1),"price",140],p,o)
-l=A.mw(i,6,13,0,0,0,0,!1)
+l=A.mw(h,6,13,0,0,0,0,!1)
 if(!A.ev(l))A.O(A.ex(l))
 l=A.au(["date",new A.co(l,!1),"price",170],p,o)
-k=A.mw(i,6,14,0,0,0,0,!1)
+k=A.mw(h,6,14,0,0,0,0,!1)
 if(!A.ev(k))A.O(A.ex(k))
-return new A.w0(new A.rd(s,g,h,new A.Mu(j,j,1/0,56),j),A.ajd(A.jO(A.agG(A.a([B.JB,r,B.JA,A.wt(new A.FO(A.a([q,n,m,l,A.au(["date",new A.co(k,!1),"price",180],p,o)],t.gG),j),400,800),B.JC,A.wt(new A.wD(this.d,j),j,800)],t.F),B.eh,B.bE),j,j),B.b6),j)}}
+return new A.w0(new A.rd(s,f,g,new A.Mu(j,j,1/0,56),j),A.ajd(A.jO(A.agG(A.a([B.JB,r,B.JA,A.wt(new A.FO(A.a([q,n,m,l,A.au(["date",new A.co(k,!1),"price",180],p,o)],t.gG),j),400,800),B.JC,A.wt(new A.wD(this.d,j),j,800)],t.F),B.eh,B.bE),j,j),B.b6),j)}}
 A.a76.prototype={
 $3(a,b,c){var s=null
 return A.hs(s,s,B.jP,s,s,s,s,s,s)},
