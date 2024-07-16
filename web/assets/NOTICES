@@ -4616,6 +4616,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 csslib
+logging
 
 Copyright 2013, the Dart project authors. 
 
